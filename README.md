@@ -2,9 +2,11 @@
 
 :house_with_garden: I’m from São Luís, Maranhão, Brazil.
 
-:books: I’m currently learning Front-end and Back-end Development.
+:books: I’m currently majoring in Software Engineering.
 
-:outbox_tray: 2021 Goals: Get an internship or job in software development.
+💻: Interning as a ChatBot Developer At TakeBlip.
+
+:outbox_tray: 2022 Goals: Get a job as a junior developer.
 
 ## Let's Talk!
 
