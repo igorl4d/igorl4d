@@ -4,9 +4,9 @@
 
 :books: I’m currently majoring in Software Engineering.
 
-💻 Interning as a ChatBot Developer At TakeBlip.
+💻 Interning at GIGA.
 
-:outbox_tray: 2022 Goals: Get a job as a junior developer.
+:outbox_tray: 2024 Goals: Get a job as a junior developer.
 
 ## Let's Talk!
 
